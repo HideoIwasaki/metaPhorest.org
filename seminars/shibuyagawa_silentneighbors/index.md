@@ -12,6 +12,7 @@ prev:
 
 ### Silent Neighbors – 渋谷川に棲まうものたちとの邂逅 –
 
+[English below]
 東急株式会社と生命美学プラットフォームmetaPhorestが主催する”Silent Neighbors – 渋谷川に棲まうものたちとの邂逅 –”の作品展示が行われます。
 2月13日〜2月15日に開催される「DIG SHIBUYA 2026」のOfficial Partner Programとして、渋谷リバーストリートにて展示されます。
 是非お越しくださいませ。
@@ -81,10 +82,15 @@ Various man-made objects have found their way into urban rivers, becoming part o
 ### ④ Revetment Spirits
 Along the banks of the Shibuya River, numerous drainage channels help divert rainwater and maintain the river's flow. Look closely, and you'll notice each channel has its own unique character. From the drainage channels downward, deposits spread out in a flared pattern, displaying various colors like black, dark brown, yellow-green, deep green, and white. Here, a small yet rich ecosystem thrives, gathering numerous microorganisms, algae, plants, and protozoa. Don't they look like spirits wearing cloaks, with the drainage ditch as their head? At night, they take turns being illuminated. It's delightful when you happen upon your favorite spirit.
 
-### ⑤ Urban Microbial Ecologies
+### ⑤ Urban Microbial Ecologies (Chimeric Bioflora)
 Beneath the surface, algae and man-made objects (like paper) intertwine, creating a strangely fascinating scene that unfolds unseen. This hybrid “nature,” unique to the city, may be nurturing its own distinct microbial ecosystem. Based on this hypothesis, we are conducting microscopic observations and DNA analysis to investigate what kinds of microorganisms have taken up residence. We are also advancing DNA analysis on the colorful ‘Revetment Spirits’.
 
 ### Co-hosted and Supported by
-Co-hosted by: Tokyu Corporation / metaPhorest
-Supported by: Tokyu Corporation / Waseda University, Hideo Iwasaki Laboratory
+Co-hosted by: Tokyu Corporation / metaPhorest (Shibuya-river Team: Tomoki Matsumura, Akira Fujioka, Hanna Saito, Tomoya Ishibashi, Toru Nakajima & Hideo Iwasaki)
+
+### Collaboration
+Hideo Iwasaki Lab (Waseda University TWIns), TASKO, BIOTA, TOWAIEIZO, Mr So Honda (Culvert expert), Metaversal Nature Technologies, Kakenhi (Kiban B, More-than-Human Aesthetics)
+
+### DIG SHIBUYA
+Co-hosted by SHIBUYA CREATIVE TECH conmittee, Japan Arts Council, Agency for Cultural Affairs, and the Shibuya Ward.
 
